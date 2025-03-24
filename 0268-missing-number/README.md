@@ -65,5 +65,7 @@
 	<li>All the numbers of <code>nums</code> are <strong>unique</strong>.</li>
 </ul>
 
+<p> BEST SOLUTION :  return(sum(range(len(nums)+1)) - sum(nums))</p>
+
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong> Could you implement a solution using only <code>O(1)</code> extra space complexity and <code>O(n)</code> runtime complexity?</p>
