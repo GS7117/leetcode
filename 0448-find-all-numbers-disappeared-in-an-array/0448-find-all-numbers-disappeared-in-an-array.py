@@ -4,9 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        myset = set()
-        for i in range (1,len(nums)+1) :
-            myset.add(i)
+        # myset = set(range(1,len(nums)+1))
+        
+        # return list(myset - set(nums))
 
-        return list(myset - set(nums))
+        return(list(set(range(1, len(nums) + 1)) - set(nums)))
         
