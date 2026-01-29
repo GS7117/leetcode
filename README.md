@@ -7,6 +7,7 @@ Leetcode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GS7117/leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/GS7117/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/GS7117/leetcode/tree/master/0054-spiral-matrix) |
 | [0268-missing-number](https://github.com/GS7117/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GS7117/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -53,4 +54,12 @@ Leetcode questions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/GS7117/leetcode/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/GS7117/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/GS7117/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
