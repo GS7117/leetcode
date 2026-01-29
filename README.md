@@ -23,6 +23,7 @@ Leetcode questions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/GS7117/leetcode/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/GS7117/leetcode/tree/master/0268-missing-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/GS7117/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Binary Search
