@@ -5,16 +5,10 @@ class Solution(object):
         :type str2: str
         :rtype: str
         """
-        i=0
-        l1 = len(str1)
-        l2= len(str2)
-        gcd =""
-        final_gcd =""
-        while i<l1 and i<l2 :
-            if str1[i] == str2[i] :
-                gcd = gcd + str1[i]
-            
-            if len(gcd) >0 and (gcd*(l1//len(gcd)) == str1 and gcd*(l2//len(gcd)) == str2)  :
-                final_gcd = gcd
-            i+=1
-        return final_gcd
+        if str1+str2 != str2+str1 :
+            return ""
+    
+        l1,l2 = len(str1), len(str2)
+        while l2 > 0 :
+            l1, l2 = l2, l1 % l2
+        return str1[:l1]
