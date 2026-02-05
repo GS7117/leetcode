@@ -63,4 +63,12 @@ Leetcode questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/GS7117/leetcode/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/GS7117/leetcode/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/GS7117/leetcode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
