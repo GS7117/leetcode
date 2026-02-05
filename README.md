@@ -25,6 +25,7 @@ Leetcode questions
 | ------- |
 | [0007-reverse-integer](https://github.com/GS7117/leetcode/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/GS7117/leetcode/tree/master/0268-missing-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/GS7117/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1395-minimum-time-visiting-all-points](https://github.com/GS7117/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Binary Search
 |  |
@@ -70,5 +71,6 @@ Leetcode questions
 ## String
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/GS7117/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/GS7117/leetcode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
