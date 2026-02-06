@@ -12,6 +12,7 @@ Leetcode questions
 | [0268-missing-number](https://github.com/GS7117/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GS7117/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1395-minimum-time-visiting-all-points](https://github.com/GS7117/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/GS7117/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GS7117/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
