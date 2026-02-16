@@ -4,7 +4,7 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        s = s.strip()
+        
         s = s.split()
     
         output = s[::-1]
