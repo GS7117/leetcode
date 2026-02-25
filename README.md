@@ -9,6 +9,7 @@ Leetcode questions
 | [0001-two-sum](https://github.com/GS7117/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/GS7117/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/GS7117/leetcode/tree/master/0054-spiral-matrix) |
+| [0238-product-of-array-except-self](https://github.com/GS7117/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/GS7117/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GS7117/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/GS7117/leetcode/tree/master/0605-can-place-flowers) |
@@ -83,4 +84,8 @@ Leetcode questions
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/GS7117/leetcode/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/GS7117/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
