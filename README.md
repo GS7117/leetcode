@@ -7,6 +7,7 @@ Leetcode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GS7117/leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/GS7117/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/GS7117/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/GS7117/leetcode/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GS7117/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -72,6 +73,7 @@ Leetcode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/GS7117/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/GS7117/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GS7117/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GS7117/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
