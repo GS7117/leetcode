@@ -15,6 +15,7 @@ Leetcode questions
 | [0268-missing-number](https://github.com/GS7117/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GS7117/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/GS7117/leetcode/tree/master/0605-can-place-flowers) |
+| [0977-squares-of-a-sorted-array](https://github.com/GS7117/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1395-minimum-time-visiting-all-points](https://github.com/GS7117/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/GS7117/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GS7117/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -45,6 +46,7 @@ Leetcode questions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/GS7117/leetcode/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/GS7117/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GS7117/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -77,6 +79,7 @@ Leetcode questions
 | [0151-reverse-words-in-a-string](https://github.com/GS7117/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GS7117/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GS7117/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/GS7117/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/GS7117/leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
