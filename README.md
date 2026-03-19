@@ -8,6 +8,7 @@ Leetcode questions
 | ------- |
 | [0001-two-sum](https://github.com/GS7117/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/GS7117/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/GS7117/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GS7117/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/GS7117/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/GS7117/leetcode/tree/master/0054-spiral-matrix) |
@@ -47,6 +48,7 @@ Leetcode questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/GS7117/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/GS7117/leetcode/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/GS7117/leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/GS7117/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GS7117/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -78,6 +80,7 @@ Leetcode questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/GS7117/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/GS7117/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GS7117/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/GS7117/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GS7117/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
