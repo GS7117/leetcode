@@ -29,6 +29,7 @@ Leetcode questions
 | ------- |
 | [0001-two-sum](https://github.com/GS7117/leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/GS7117/leetcode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/GS7117/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GS7117/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/GS7117/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/GS7117/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -99,6 +100,7 @@ Leetcode questions
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/GS7117/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GS7117/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/GS7117/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/GS7117/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/GS7117/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
@@ -114,5 +116,6 @@ Leetcode questions
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/GS7117/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/GS7117/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/GS7117/leetcode/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
